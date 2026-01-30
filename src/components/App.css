@@ -1,0 +1,20 @@
+.background-image {
+  background-image: url('/plants-bg.jpg'); /* background rasm fayli */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  text-align: center;
+  padding: 50px;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  cursor: pointer;
+}
